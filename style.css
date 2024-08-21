@@ -41,7 +41,7 @@ body{
     cursor: pointer;
     display: inline-block;
     width: 100%;
-    background-color: transparent;
+    background-color: black;
     color: #fff;
     padding: 15px;
     font-family: inherit;
